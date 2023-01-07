@@ -5,6 +5,7 @@
  */
 // Level - Easy
 // 1. Two Sum
+// Runtime: 78 ms - Beats 85.75% / Memory: 43.5 MB - Beats 20.8% 
 var twoSum = function(nums, target) {
     let mp = new Map()
     
